@@ -1,0 +1,34 @@
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form1.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form36.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Properties.Resources.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\bin\Debug\برنامج المحامي العربي.exe
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\bin\Debug\برنامج المحامي العربي.pdb
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.exe
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.pdb
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form6.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form7.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form2.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form3.resources
+C:\Users\kamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form4.resources
+D:\kamel_projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.exe
+D:\kamel_projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.pdb
+C:\Users\mkamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.csprojResolveAssemblyReference.cache
+C:\Users\mkamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.exe
+C:\Users\mkamel\Desktop\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.pdb
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.csprojResolveAssemblyReference.cache
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\bin\Debug\برنامج المحامي العربي.exe
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\bin\Debug\برنامج المحامي العربي.pdb
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form4.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form3.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form1.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form2.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form36.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form6.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Form7.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج_المحامي_العربي.Properties.Resources.resources
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.csproj.GenerateResource.Cache
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.exe
+D:\my projects\برنامج المحامي العربي\برنامج المحامي العربي\obj\x86\Debug\برنامج المحامي العربي.pdb
